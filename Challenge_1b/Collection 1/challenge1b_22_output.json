@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28T23:26:45.087345"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 8,
+            "section_title": "Tips and Tricks for Packing",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 4,
+            "section_title": "Gadgets and Accessories",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 7,
+            "section_title": "City Exploration",
+            "importance_rank": 3
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 1,
+            "section_title": "Introduction",
+            "importance_rank": 4
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page_number": 8,
+            "section_title": "Budget-Friendly Hotels",
+            "importance_rank": 5
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Check the Weather Check the forecast before packing to ensure appropriate clothing. Make a Packing List Create a list to ensure nothing is forgotten. Cross o\ufb00 items as you pack. Use Packing Cubes Organize clothes and maximize space. Roll Your Clothes Save space and reduce wrinkles. Pack DualPurpose Items Choose items that serve multiple purposes. Wear Bulky Items Wear bulky items like coats or boots during travel to save suitcase space. Pack a Day Bag Bring a small day bag for daily excursions. Leave Room for Souvenirs Leave extra space or bring a foldable bag for souvenirs. Additional Tips Pack a small travel umbrella, a reusable shopping bag, and a portable phone charger. Consider using a luggage scale to avoid overweight baggage fees.",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Electronics Smartphone, charger, power bank, and other devices. Bring a travel adapter if needed. Camera Capture memories with a camera, extra batteries, and memory cards. Books and Entertainment A book, ereader, or tablet for entertainment during travel.",
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Day Bag A small, secure day bag for carrying essentials like water, snacks, and a camera. Comfortable Shoes Wear comfortable walking shoes for exploring cities. Guidebook A guidebook or map to help navigate and find points of interest. Additional Tips Use a money belt or hidden pouch to keep valuables safe. Consider using public transportation to explore cities e\ufb03ciently.",
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Planning a trip to the South of France requires thoughtful preparation to ensure a comfortable and enjoyable experience. This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities. Whether youre traveling solo, with kids, or in a group, this guide will help you make the most of your trip.",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Ibis Budget Nice Californie Lenval Nice A budgetfriendly hotel o\ufb00ering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budgetconscious travelers. Hotel Le Saint Paul Nice A charming hotel located in a historic building, o\ufb00ering a\ufb00ordable rates and beautiful views of the Mediterranean. The cozy rooms and friendly service make it a pleasant stay. Hotel des Arts Montpellier A budgetfriendly hotel located in the heart of Montpellier, o\ufb00ering comfortable rooms and easy access to the citys attractions. The artistic decor and central location make it a popular choice. Hotel Le Mistral Marseille A budgetfriendly hotel o\ufb00ering simple, clean rooms and a convenient location near the Old Port. The friendly sta\ufb00 and a\ufb00ordable rates make it a good option for travelers on a budget. Hotel Azur Nice A budgetfriendly hotel o\ufb00ering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budgetconscious travelers. Hotel de la Paix Marseille A budgetfriendly hotel o\ufb00ering simple, clean rooms and a convenient location near the Old Port. The friendly sta\ufb00 and a\ufb00ordable rates make it a good option for travelers on a budget. Hotel du Palais Montpellier A budgetfriendly hotel located in the heart of Montpellier, o\ufb00ering comfortable rooms and easy access to the citys attractions. The artistic decor and central location make it a popular choice. Hotel de la Mer Nice A budgetfriendly hotel o\ufb00ering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budgetconscious travelers. Hotel de la Plage Marseille A budgetfriendly hotel o\ufb00ering simple, clean rooms and a convenient location near the Old Port. The friendly sta\ufb00 and a\ufb00ordable rates make it a good option for travelers on a budget. Hotel de la Gare Montpellier A budgetfriendly hotel located in the heart of Montpellier, o\ufb00ering comfortable rooms and easy access to the citys attractions. The artistic decor and central location make it a popular choice.",
+            "page_number": 8
+        }
+    ]
+}

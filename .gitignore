@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+__pycache__/
+# Build output
+dist/
+build/
+out/
+venv/
+# IDEs
+
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.swp
+*.bak
+*.tmp
+
+# Coverage
+coverage/
+*.lcov
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Test output
+test-results/
